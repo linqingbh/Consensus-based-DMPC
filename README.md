@@ -51,11 +51,11 @@ Just run the file "main".
 
 "main" is a conbination of the "CalAlluavs" and "ShowAlluavs"
 
-Several uavs data is provided in folder "data", you can change some code in "main" to use them by following the rules.
+Several uavs data are provided in folder "data", you can change some code in "main" to use them by following the rules.
 
 If you want to compute your own data, "A5pre" is provided in the folder "Formation_control_main".
 
-## Other-link
+## Other-links
 
 [DMPC-for-multi-agent](https://github.com/chengji253/DMPC-for-multi-agent)
 
